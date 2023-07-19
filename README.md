@@ -1,2 +1,1 @@
-# precourse-Henry
-Practicas personales
+Este proyecto es una prueba de como clonar un repositorio desde Github y gestionarlo en mi equipo local
